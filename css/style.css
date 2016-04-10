@@ -365,3 +365,79 @@ h5 {
 	background:#e6e6e6;
 	height:1px;
 }
+
+.logos {
+	display: block;
+	margin: 20px auto;
+}
+
+/*---Footer---*/
+
+.about_2 {
+	width: 100%;
+	height: 400px;
+	background: #ececec;
+
+}
+
+.about_in_2 {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 960px;
+	color: #787878;
+}
+
+.col_in_2 {
+	padding: 110px 15px 0 15px;
+}
+
+h4.pig {
+	font-size: 36px;
+	text-shadow: none;
+}
+
+h4.pig_2 {
+	font-size: 28px;
+	text-shadow: none;
+}
+
+.text1_2 {
+	margin: 10px 0 0 0;
+	line-height: 25px;
+	height: 165px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	overflow: hidden;
+}
+
+/*---Menu Bottom---*/
+
+.bg_footer {
+	width: 100%;
+	height: 115px;
+	background: url(../img/bg_footer.jpg) no-repeat;
+	background-size: cover;
+}
+
+.box_bottom {
+	padding: 27px 0 0 0;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.bottom {
+	font-size: 22px;
+}
+
+.designed {
+	padding: 25px 30px;
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+	font-size: 12px;
+}
+
+.as {
+	font-weight: 800;
+}
